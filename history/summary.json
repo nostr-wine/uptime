@@ -4,9 +4,9 @@
     "url": "https://nostr.wine",
     "icon": "https://icons.duckduckgo.com/ip3/nostr.wine.ico",
     "slug": "nostr-wine-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,14 +15,16 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-07": 0
+    }
   },
   {
     "name": "nostr.wine websocket",
     "url": "wss://nostr.wine",
     "icon": "https://icons.duckduckgo.com/ip3/nostr.wine.ico",
     "slug": "nostr-wine-websocket",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-07": 0
+    }
   }
 ]
