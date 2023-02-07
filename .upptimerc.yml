@@ -9,9 +9,6 @@ sites:
   - name: nostr.wine websocket
     check: "ws"
     url: wss://nostr.wine
-  - name: nostr.p2sh.co websocket
-    check: "ws"
-    url: wss://nostr.p2sh.co
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
