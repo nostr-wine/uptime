@@ -20,23 +20,39 @@
     }
   },
   {
-    "name": "nostr.wine websocket",
+    "name": "nostr.wine relay",
     "url": "wss://nostr.wine",
     "icon": "https://icons.duckduckgo.com/ip3/nostr.wine.ico",
-    "slug": "nostr-wine-websocket",
+    "slug": "nostr-wine-relay",
     "status": "up",
-    "uptime": "99.45%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.45%",
-    "uptimeMonth": "99.45%",
-    "uptimeYear": "99.45%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2023-02-07": 38
-    }
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "filter.nostr.wine relay",
+    "url": "wss://filter.nostr.wine",
+    "icon": "https://icons.duckduckgo.com/ip3/filter.nostr.wine.ico",
+    "slug": "filter-nostr-wine-relay",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   }
 ]
