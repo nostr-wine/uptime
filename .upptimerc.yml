@@ -6,9 +6,12 @@ sites:
   - name: nostr.wine frontend
     check: "ws"
     url: https://nostr.wine
-  - name: nostr.wine websocket
+  - name: nostr.wine relay
     check: "ws"
     url: wss://nostr.wine
+  - name: filter.nostr.wine relay
+    check: "ws"
+    url: wss://filter.nostr.wine
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
