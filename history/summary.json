@@ -42,19 +42,19 @@
     "url": "wss://filter.nostr.wine",
     "icon": "https://icons.duckduckgo.com/ip3/filter.nostr.wine.ico",
     "slug": "filter-nostr-wine-relay",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "98.88%",
+    "uptimeDay": "95.94%",
+    "uptimeWeek": "98.88%",
+    "uptimeMonth": "98.88%",
+    "uptimeYear": "98.88%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-13": 0
+      "2023-02-13": 58
     }
   }
 ]
