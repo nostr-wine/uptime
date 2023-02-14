@@ -10,11 +10,11 @@
     "uptimeWeek": "99.62%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.70%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 419,
+    "timeDay": 419,
+    "timeWeek": 419,
+    "timeMonth": 419,
+    "timeYear": 419,
     "dailyMinutesDown": {
       "2023-02-07": 38
     }
@@ -35,6 +35,24 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "filter.nostr.wine frontend",
+    "url": "https://filter.nostr.wine",
+    "icon": "https://icons.duckduckgo.com/ip3/filter.nostr.wine.ico",
+    "slug": "filter-nostr-wine-frontend",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 457,
+    "timeDay": 457,
+    "timeWeek": 457,
+    "timeMonth": 457,
+    "timeYear": 457,
     "dailyMinutesDown": {}
   },
   {
