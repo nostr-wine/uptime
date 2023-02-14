@@ -4,11 +4,12 @@ repo: uptime # The name of this repository
 
 sites:
   - name: nostr.wine frontend
-    check: "ws"
     url: https://nostr.wine
   - name: nostr.wine relay
     check: "ws"
     url: wss://nostr.wine
+  - name: filter.nostr.wine frontend
+    url: https://filter.nostr.wine
   - name: filter.nostr.wine relay
     check: "ws"
     url: wss://filter.nostr.wine
