@@ -26,7 +26,7 @@ status-website:
   introTitle: "**nostr.wine** is a paid nostr relay that provides an additional aggregator/broadcast relay."
   #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
-    - title: Status
+    - title: Uptime
       href: /
     - title: nostr.wine
       href: https://nostr.wine
