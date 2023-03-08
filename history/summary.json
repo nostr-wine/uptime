@@ -24,9 +24,9 @@
     "url": "wss://nostr.wine",
     "icon": "https://icons.duckduckgo.com/ip3/nostr.wine.ico",
     "slug": "nostr-wine-relay",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-08": 0
+    }
   },
   {
     "name": "filter.nostr.wine frontend",
