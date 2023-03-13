@@ -42,19 +42,19 @@
     "url": "https://filter.nostr.wine",
     "icon": "https://icons.duckduckgo.com/ip3/filter.nostr.wine.ico",
     "slug": "filter-nostr-wine-frontend",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 516,
-    "timeDay": 704,
-    "timeWeek": 517,
-    "timeMonth": 516,
-    "timeYear": 516,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 527,
+    "timeDay": 780,
+    "timeWeek": 559,
+    "timeMonth": 527,
+    "timeYear": 527,
     "dailyMinutesDown": {
-      "2023-03-13": 0
+      "2023-03-13": 14
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "wss://filter.nostr.wine",
     "icon": "https://icons.duckduckgo.com/ip3/filter.nostr.wine.ico",
     "slug": "filter-nostr-wine-relay",
-    "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.84%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-13": 0,
+      "2023-03-13": 14,
       "2023-02-13": 58
     }
   }
